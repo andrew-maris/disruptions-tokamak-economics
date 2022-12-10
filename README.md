@@ -6,4 +6,4 @@ This repository hosts the script used to produce the plots for the forthcoming p
 
 - What are maximum allowable disruption rates in a TPP
 
-- Compute the LCOE including the effect of disruptions
+- The Levelized Cost of Electricity of a TPP including the effect of disruptions

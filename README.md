@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/576485565.svg)](https://zenodo.org/badge/latestdoi/576485565)
+
+
 # The impact of disruptions on the economics of a tokamak power plant
 
 This repository hosts the script used to produce the plots for the forthcoming paper. Use this to explore: 

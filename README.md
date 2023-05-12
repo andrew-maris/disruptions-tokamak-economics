@@ -1,12 +1,8 @@
 [![DOI](https://zenodo.org/badge/576485565.svg)](https://zenodo.org/badge/latestdoi/576485565)
 
 
-# The impact of disruptions on the economics of a tokamak power plant
+# Code, data, and plots for "The impact of disruptions on the economics of a tokamak power plant" (Maris et al. 2023)
 
-This repository hosts the script used to produce the plots for the forthcoming paper. Use this to explore: 
+How will disruptions affect the viability of the tokamak fusion energy pathway? Our forthcoming paper creates a model for how the cost of electricity scales with disruption related parameters such as the disruption rate based on the widely-utilized Levelized Cost of Electricity (LCOE) model. We also highlight the key technical challenges and opportunities for research today to address this challenge. 
 
-- The impacts of disruptions on tokamak power plant (TPP) operation
-
-- What are maximum allowable disruption rates in a TPP
-
-- The Levelized Cost of Electricity of a TPP including the effects of disruptions
+In these repo, we have published the Jupyter Notebook used to create the plots for our paper. You can explore the models we present in the paper, such as for maximum allowable disruption rates and the LCOE of a tokamak power plant that experiences disruptions.
